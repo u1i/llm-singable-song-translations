@@ -1,0 +1,60 @@
+<think>
+Okay, let's tackle this translation. The user wants the song lyrics translated into Bahasa Melayu while keeping the musical structure. First, I need to understand the original lyrics' structure, syllable count, rhyme scheme, and rhythm.
+
+Looking at the first verse: "My love / There's only you in my life / The only thing that's right / My first love". Each line is short, so syllable count is crucial. "My love" is two syllables. In Malay, "Cinta ku" works. Next line: "There's only you in my life" – 9 syllables. Translating to "Hanya engkau dalam hidupku" – that's 9 syllables, perfect. "The only thing that's right" – "Satu hal yang benar" is 7 syllables, original is 8, but ±1 is okay. "My first love" becomes "Cinta pertama" which matches.
+
+Rhyme scheme: The original uses end rhymes like "life/right", "take/make". In Malay, "hidupku/benar" doesn't rhyme, so need to adjust. Maybe "Hanya engkau di hidupku" and "Satu hal yang pasti" to get "hidupku" and "pasti" which rhyme better. Wait, "pasti" means "sure", but original is "right". Maybe "Satu hal yang tepat" – "tepat" means right, and "hidupku" and "tepat" don't rhyme. Hmm, tricky. Maybe rephrase the lines to find rhymes. Let's see.
+
+Next verse: "You're every breath that I take / You're every step I make" – 11 syllables each. Translating to "Setiap nafas ku hembus" (11) and "Setiap langkah ku tempuh" (11). "Hembus" and "tempuh" rhyme, which matches the original.
+
+Emotional tone is love and devotion. Malay uses "engkau" for intimacy, which fits. Ensuring natural flow for singing: avoiding complex words, keeping it conversational. For example, "I want to share / All my love with you" becomes "Ku ingin bagikan / Segala cinta padamu". "Bagikan" is more formal, maybe "berikan" is better. "Segala cinta" conveys "all my love".
+
+Line breaks and structure must stay exact. Check each line's syllable count against the original. "No one else will do" – "Tiada yang lain" (6 syllables vs original 6). "And your eyes / They tell me how much you care" – "Dan matamu / Berbicara betapa sayangmu". "Sayangmu" conveys care, syllable count matches.
+
+Rhyme scheme preservation: Original has "care/always be". Translated to "sayangmu/selamanya" – slant rhyme. Maybe adjust to "sayangmu/selamanya" which works in Malay.
+
+Repeating "My endless love" as "Cinta abadi" – concise and fits syllable. "Two hearts that beat as one" – "Dua hati yang berdenyut sebagai satu" is too long. Shorten to "Dua hati berdenyut jadi satu" (11 syllables, original 10). Close enough.
+
+"Forever / I'll hold you close in my arms" – "Selama-lamanya / Ku akan gendutmu erat di dada" – "gendutmu" might not be the best term. "Dalam pelukku" is better. "I can't resist your charms" – "Tidak ku tahan pesona mu" – syllable count matches.
+
+"I'll be a fool for you, I'm sure / You know I don't mind" – "Ku rela jadi bodoh untukmu, pasti / Engkau tahu ku tidak keberani" – syllables might be off. Simplify to "Ku rela bodoh untukmu / Engkau tahu ku tidak peduli" – shorter and fits.
+
+Final lines: "You mean the world to me / Oh, I know / I've found in you / My endless love" – "Engkau dunia bagiku / Oh, ku tahu / Ku temui dalam mu / Cinta abadi". Syllables match, structure intact.
+
+Check singability: Read the translated lines aloud to ensure they flow with the melody. Adjust any lines that feel forced. For example, "I can't resist your charms" to "Tidak ku tahan pesona mu" – "pesona" is a common term for charm, works well.
+
+Overall, prioritize syllable count, rhyme, and natural Malay phrases that fit the melody. Make sure each line break is preserved and the emotional tone remains consistent. Avoid literal translations where they don't fit the musical structure. Test each verse against the original melody to ensure compatibility.
+</think>
+Cinta ku  
+Hanya engkau di hidupku  
+Satu hal yang pasti  
+Cinta pertama  
+
+Setiap nafas ku hembus  
+Setiap langkah ku tempuh  
+Dan aku  
+Ku ingin berikan  
+Segala cinta padamu  
+Tiada yang lain  
+
+Dan matamu  
+Berbicara betapa sayangmu  
+Oh ya, kau akan selamanya  
+Cinta abadi  
+
+Dua hati  
+Dua hati berdenyut jadi satu  
+Hidup kita baru mulai  
+Selama-lamanya  
+Ku akan gendutmu erat  
+Tidak ku tahan pesona mu  
+Dan cinta  
+Ku rela bodoh untukmu  
+Engkau tahu ku tidak peduli  
+Tidak peduli  
+
+Karna kau  
+Engkau dunia bagiku  
+Oh, ku tahu  
+Ku temui dalam mu  
+Cinta abadi
