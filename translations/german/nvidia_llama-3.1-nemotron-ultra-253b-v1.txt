@@ -1,0 +1,113 @@
+<think>
+Okay, let's tackle this translation. The user wants the song lyrics translated into German while keeping the musical structure. The critical points are syllable count, rhyme scheme, rhythm, emotional tone, natural flow for singing, and maintaining line breaks.
+
+First, I'll analyze the original English lyrics. Each line is short, so syllable count is crucial. For example, "My love" is two syllables. In German, "Meine Liebe" is three, which is one over. Maybe "Mein Liebling" works better, keeping it to three syllables but closer to the original's brevity.
+
+Next, the rhyme scheme. The original uses end rhymes like "life" and "right." In German, "Leben" and "Recht" don't rhyme. Need to find equivalent rhymes. Perhaps "Leben" and "geben" could work, but adjust the lines to fit the meaning.
+
+Rhythm is important. The original has a steady beat, so the German translation must match the stress patterns. For instance, "You're every breath that I take" translates to "Jeder Atemzug, den ich mache." Check syllables: original is 10 syllables, translation is 11. Maybe shorten to "Jeder Atemzug, ich mache" but that changes meaning. Alternatively, "Jeder Atemzug, den ich tue" (10 syllables) but "tue" might not fit naturally.
+
+Emotional tone needs to stay romantic and sincere. Words like "endless love" become "ewige Liebe." Ensure that the intensity is maintained without sounding forced.
+
+Line breaks and verse structure must be exact. If the original has a line break after "My love," the German should too. So "Mein Liebling" as a standalone line.
+
+Singability is a priority. Some literal translations might not flow well when sung. For example, "I'll be a fool for you" could be "Ich bin dein Narr, für dich immer" to keep the rhythm and make it singable, even if it's not a direct translation.
+
+Testing each line for syllable count and flow. Let's go line by line:
+
+"My love" → "Mein Liebling" (3 syllables, original 2. Close enough.)
+"There's only you in my life" → "Nur du in meinem Leben" (8 syllables, original 8. Good.)
+"The only thing that's right" → "Das einzig Richtige" (6 syllables, original 7. Maybe "Das Einzige, was stimmt" (8 syllables). Hmm, tricky. Adjust to "Das Einzige, was wert" (7 syllables) but meaning changes. Alternatively, "Das Einzige, was passt" (7). Not perfect. Maybe "Das Einzige, was stimmt" and accept one extra syllable.)
+
+"My first love" → "Meine erste Liebe" (6 syllables, original 3. Too long. Maybe "Erste Liebe" (4 syllables). Better.)
+
+"You're every breath that I take" → "Jeder Atemzug, den ich mache" (11 syllables, original 10. Maybe "Jeder Atemzug, ich mache" (9) but grammar suffers. Alternatively, "Jeder Atemzug, ich atme dich" (10 syllables). More poetic and fits.)
+
+"You're every step I make" → "Jeder Schritt, den ich gehe" (8 syllables, original 7. Close.)
+
+"And I" → "Und ich" (3 syllables, matches.)
+
+"I want to share" → "Will teilen" (3 syllables, original 4. Maybe "Ich will teilen" (4). Better.)
+
+"All my love with you" → "All meine Liebe mit dir" (8 syllables, original 6. Maybe "Meine ganze Liebe dir" (7). Closer.)
+
+"No one else will do" → "Keiner sonst reicht dir gleich" (8 syllables, original 6. Maybe "Keiner sonst genügt" (6). Better.)
+
+"And your eyes" → "Und deine Augen" (6 syllables, original 4. Maybe "Deine Augen" (4). Better.)
+
+"They tell me how much you care" → "Erzählen, wie sehr du dich kümmerst" (12 syllables, original 10. Too long. Simplify to "Sagen mir, wie sehr du magst" (10).)
+
+"Oh yes, you will always be" → "Oh ja, du bleibst immer" (8 syllables, original 9. Close.)
+
+"My endless love" → "Meine ewige Liebe" (7 syllables, original 5. Maybe "Ewige Liebe" (5). Better.)
+
+"Two hearts" → "Zwei Herzen" (4 syllables, original 2. Maybe "Zwei Herzen" is acceptable.)
+
+"Two hearts that beat as one" → "Die schlagen wie eins" (6 syllables, original 8. Maybe "Die als eins schlagen" (6).)
+
+"Our lives have just begun" → "Uns're Leben fängt an" (7 syllables, original 7. Good.)
+
+"Forever" → "Für immer" (3 syllables, original 2. Close.)
+
+"I'll hold you close in my arms" → "Halte dich nah in meinen Armen" (10 syllables, original 9. Maybe "Halte dich nah in Arm" (8). Not natural. Alternatively, "Ich halte dich nah im Arm" (9). Better.)
+
+"I can't resist your charms" → "Kann nicht widerstehen deinem Zauber" (12 syllables, original 8. Too long. "Kann deinem Zauber nicht wehren" (10). Better.)
+
+"And love" → "Und Liebe" (4 syllables, original 2. Maybe "Die Liebe" (3).)
+
+"I'll be a fool for you, I'm sure" → "Ich bin dein Narr, für dich immer" (11 syllables, original 10. Maybe "Ich bin dein Narr, immer für dich" (11).)
+
+"You know I don't mind" → "Du weißt, ich hab' nichts dagegen" (11 syllables, original 6. Too long. "Du weißt, ich will das gern" (8).)
+
+"I don't mind" → "Ich will das gern" (6 syllables, original 2. Maybe repeat "Ich will das gern" for consistency.)
+
+"'Cause you" → "Denn du" (3 syllables, original 2. Close.)
+
+"You mean the world to me" → "Bedeutest mir die Welt" (7 syllables, original 7. Good.)
+
+"Oh, I know" → "Oh, ich weiß" (4 syllables, original 3. Close.)
+
+"I've found in you" → "Hab' in dir gefunden" (7 syllables, original 5. Maybe "Hab' dich gefunden" (5). Better.)
+
+"My endless love" → "Meine ewige Liebe" (7 syllables, original 5. Maybe "Ewige Liebe" (5).)
+
+Now, check rhyme scheme. Original rhymes: life/right, take/make, share/you/do, care/be/love, one/begun, arms/charms, sure/mind/mind, me/love.
+
+In German, need to match end rhymes. For example, "Leben" and "geben" don't rhyme. Adjust lines to find rhymes like "Leben" and "gehen" (not perfect). Maybe "Nur du in meinem Leben" and "Das Einzige, was stimmt" (stimmt and Leben don't rhyme). This is challenging. Perhaps rephrase to "Nur du in meinem Herzen" (Herzen and Recht don't rhyme). Alternatively, adjust the second line to "Das Einzige, was zählt" (zählt and Leben still not rhyming). Maybe prioritize meaning over perfect rhymes where necessary, but try to find slant rhymes.
+
+For "take/make" in German, "mache/gehe" don't rhyme. Use "mache" and "mache" (repeat verb), but that's not ideal. Maybe "Jeder Atemzug, den ich tue" and "Jeder Schritt, den ich gehe" (tue and gehe don't rhyme). Alternatively, adjust to "Jeder Atemzug, ich atme dich" and "Jeder Schritt, ich gehe mit dir" (atme dich and gehe mit dir don't rhyme). This is tough. Maybe use near rhymes or adjust the lines more significantly.
+
+Emotional tone and natural flow for singing must be maintained. Some compromises on literal translation are needed for singability. For example, "I'll be a fool for you" becomes "Ich bin dein Narr, für dich immer" to keep rhythm and flow.
+
+After several iterations, the translated lyrics should match syllable count as closely as possible, preserve the rhyme scheme where feasible, maintain the structure, and feel natural in German for singing. The result may not be a perfect literal translation but should capture the essence and emotion of the original song while fitting the melody.
+</think>
+
+Mein Liebling  
+Nur du in meinem Leben  
+Das Einzige, was stimmt  
+Erste Liebe  
+Jeder Atemzug, ich atme dich  
+Jeder Schritt, ich gehe mit dir  
+Und ich  
+Will teilen  
+Meine ganze Liebe dir  
+Keiner sonst genügt  
+Deine Augen  
+Sagen mir, wie sehr du magst  
+Oh ja, du bleibst immer  
+Ewige Liebe  
+Zwei Herzen  
+Die als eins schlagen  
+Uns're Leben fängt an  
+Für immer  
+Ich halte dich nah im Arm  
+Kann deinem Zauber nicht wehren  
+Und Liebe  
+Ich bin dein Narr, immer für dich  
+Du weißt, ich will das gern  
+Ich will das gern  
+Denn du  
+Bedeutest mir die Welt  
+Oh, ich weiß  
+Hab' dich gefunden  
+Ewige Liebe

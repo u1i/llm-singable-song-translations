@@ -1,0 +1,11 @@
+Translate the lyrics of this song into __LANGUAGE__ while maintaining the musical structure for singing/dubbing. 
+
+CRITICAL REQUIREMENTS:
+- Match syllable count per line as closely as possible (±1 syllable acceptable)
+- Preserve rhyme scheme and rhythm patterns
+- Keep the same emotional tone and meaning
+- Ensure natural pronunciation flow for singing
+- Maintain line breaks and verse structure exactly
+- Prioritize singability over literal translation accuracy
+
+Focus on creating lyrics that feel natural in __LANGUAGE__ while being musically compatible with the original melody. The result should be a song that can be performed, not just read.
