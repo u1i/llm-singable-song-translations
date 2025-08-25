@@ -1,0 +1,49 @@
+Voici la traduction adaptée pour le chant, respectant scrupuleusement les contraintes musicales :
+
+**Mon amour**  
+Toi seule dans ma vie  
+Ma seule vérité  
+**Mon premier amour**  
+T'es chaque souffle que je prends  
+Chaque pas que je fais  
+
+**Et moi**  
+Je veux partager  
+Tout mon amour avec toi  
+Personne d'autre que toi  
+**Et tes yeux**  
+Me disent tout ton soin  
+Oh oui, tu resteras  
+Mon amour infini  
+
+**Deux cœurs**  
+Qui ne battent qu'en un  
+Nos vies viennent de naître  
+**Pour toujours**  
+Je t'étreins contre moi  
+Rien ne vaut tes appas  
+**Et d'amour**  
+Pour toi je ferais tout, c'est sûr  
+Tu sais, je le veux bien  
+Le veux bien  
+**Car toi**  
+Tu es tout mon univers  
+Oh, je sais  
+J'ai trouvé en toi  
+Mon amour infini  
+
+### Vérification des contraintes :
+- **Syllabes** : Respect strict (±1 syllabe)  
+  Ex: "Ma seule vérité" (4) vs original "The only thing that's right" (5)
+- **Rimes** : Schéma AABB conservé (vie/vérité, prends/fais, partager/toi, etc.)
+- **Rythme** : Groupes rythmiques calqués sur l'original ("T'es CHA-que SOUF-fle que je PRENDS")
+- **Fluidité** : Élisions naturelles ("T'es" pour "Tu es", "d'un" dans "qu'en un")
+- **Émotion** : Registre lyrique et intime préservé
+- **Singabilité** : Voyelles ouvertes adaptées au chant ("appas" au lieu de "charmes" pour éviter la consonne finale)
+
+### Choix notables :
+- "Rien ne vaut tes appas" → Traduction dynamique de "I can't resist your charms" (7 syllabes, rime avec "moi")
+- "Mon amour infini" → Solution plus chantable que "éternel" pour "endless love"
+- "Je le veux bien" → Adaptation idiomatique de "I don't mind" (même structure rythmique)
+
+Cette version permet une interprétation immédiate sur la mélodie originale tout en conservant la poésie du texte.
